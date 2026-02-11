@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "interview_date": "",
+    "skill_version": "1.0.0",
+    "user_specialization": "fullstack|frontend-design|digital-strategy|ad-campaigns"
+  },
+  "core_data": {
+    "project_name": "",
+    "one_line_description": "",
+    "role": "",
+    "role_detailed": "",
+    "timeline": {
+      "start_date": "",
+      "end_date": "",
+      "duration": ""
+    },
+    "tech_stack": [],
+    "problem_statement": "",
+    "key_metrics": [
+      {
+        "metric": "",
+        "value": "",
+        "context": ""
+      }
+    ],
+    "goals": [
+      {
+        "name": "",
+        "description": "",
+        "success_criteria": ""
+      }
+    ],
+    "constraints": {
+      "timeline": "",
+      "budget": "",
+      "technical": "",
+      "team": ""
+    }
+  },
+  "technical_decisions": [
+    {
+      "decision_name": "",
+      "context": "",
+      "alternatives": [
+        {
+          "option": "",
+          "description": "",
+          "tradeoffs": ""
+        }
+      ],
+      "chosen_option": "",
+      "rationale": "",
+      "code_snippet": {
+        "language": "",
+        "code": "",
+        "explanation": ""
+      },
+      "outcome": "",
+      "impact_metric": ""
+    }
+  ],
+  "design_process": {
+    "initial_concept": "",
+    "design_tools_used": "",
+    "research_conducted": "",
+    "research_findings": [
+      {
+        "finding": "",
+        "impact": ""
+      }
+    ],
+    "iterations": [
+      {
+        "version": "",
+        "changes": "",
+        "rationale": "",
+        "what_worked": "",
+        "what_didnt_work": ""
+      }
+    ],
+    "final_design": {
+      "description": "",
+      "rationale": ""
+    },
+    "design_challenges": [
+      {
+        "challenge": "",
+        "solution": ""
+      }
+    ]
+  },
+  "challenges": [
+    {
+      "challenge_name": "",
+      "challenge_type": "technical|resource|timeline|team|stakeholder",
+      "detailed_description": "",
+      "initial_attempts": "",
+      "what_didnt_work": "",
+      "solution": "",
+      "what_worked_and_why": "",
+      "learning": "",
+      "would_do_differently": ""
+    }
+  ],
+  "impact": {
+    "quantitative_metrics": [
+      {
+        "metric_name": "",
+        "before": "",
+        "after": "",
+        "improvement": "",
+        "timeframe": "",
+        "measurement_method": ""
+      }
+    ],
+    "qualitative_feedback": {
+      "stakeholder_type": "",
+      "direct_quotes": [],
+      "user_reception": "",
+      "testimonials": []
+    },
+    "business_value": {
+      "broader_outcomes": "",
+      "roi": "",
+      "revenue_impact": "",
+      "cost_savings": "",
+      "efficiency_gains": ""
+    }
+  },
+  "reflection": {
+    "what_worked_well": [],
+    "what_to_improve": [],
+    "skills_developed": [],
+    "future_application": ""
+  },
+  "technical_details": {
+    "stack": {
+      "frontend": "",
+      "backend": "",
+      "database": "",
+      "infrastructure": "",
+      "tools": ""
+    },
+    "links": {
+      "live_site": "",
+      "github": "",
+      "additional_resources": []
+    },
+    "scale_indicators": {
+      "users": "",
+      "traffic": "",
+      "data_volume": "",
+      "team_size": ""
+    }
+  },
+  "content_prioritization": {
+    "for_detailed_version": {
+      "include_all_technical_decisions": true,
+      "include_all_iterations": true,
+      "include_multiple_challenges": true,
+      "include_comprehensive_metrics": true,
+      "include_full_reflection": true
+    },
+    "for_concise_version": {
+      "top_technical_decision": "",
+      "top_challenge": "",
+      "core_metrics_only": [
+        "",
+        "",
+        ""
+      ],
+      "key_learning": ""
+    }
+  },
+  "notes": {
+    "extracted_from_prd": false,
+    "prd_file_path": "",
+    "interview_completion_percentage": 0,
+    "missing_information": [],
+    "follow_up_questions": []
+  }
+}
