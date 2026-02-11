@@ -1,0 +1,46 @@
+{
+  "name": "portfolio-case-study-writer",
+  "version": "1.0.0",
+  "description": "Generate portfolio-worthy case studies through structured interviews covering technical decisions, design process, business impact, and challenges.",
+  "author": "unobtuse",
+  "homepage": "https://github.com/unobtuse/portfolio-case-study-writer",
+  "type": "skill",
+  "claude_version": ">=1.0.0",
+  "skills": [
+    {
+      "name": "portfolio-case-study-writer",
+      "path": "SKILL.md",
+      "description": "Conducts progressive interviews to generate both detailed (1500-2500 words) and concise (500-800 words) markdown case studies optimized for different audiences."
+    }
+  ],
+  "tags": [
+    "portfolio",
+    "case-study",
+    "documentation",
+    "writing",
+    "interviews",
+    "fullstack",
+    "frontend",
+    "design",
+    "digital-strategy"
+  ],
+  "license": "MIT",
+  "requirements": {
+    "bins": ["python3", "bash"]
+  },
+  "features": [
+    "Progressive interview system with conditional branching",
+    "Dual-format output (detailed + concise)",
+    "PRD/project summary auto-extraction",
+    "Quality validation (metrics, AI-tells, technical specificity)",
+    "4 comprehensive reference guides (2,929 lines)",
+    "3 utility scripts for automation"
+  ],
+  "installation": {
+    "steps": [
+      "Ensure Python 3 is installed",
+      "Make scripts executable: chmod +x scripts/*.py scripts/*.sh",
+      "Trigger skill by saying: 'Write a case study for my project'"
+    ]
+  }
+}
