@@ -293,6 +293,13 @@ Built with [Claude Code](https://github.com/anthropics/claude-code) by Anthropic
 
 ---
 
+<div align="center">
+<p><a href="https://gabemade.it"><img src="https://gabemade.it/images/logo-darkmode.svg" alt="GabeMade.it" style="max-width: 100%;"></a></p>
+<p><strong>Made by <a href="https://gabemade.it">GabeMade.it</a> with ❤️</strong></p>
+</div>
+
+---
+
 **Author:** [unobtuse](https://github.com/unobtuse)
 **Repository:** [portfolio-case-study-writer](https://github.com/unobtuse/portfolio-case-study-writer)
 **Issues:** [Report a bug or request a feature](https://github.com/unobtuse/portfolio-case-study-writer/issues)
